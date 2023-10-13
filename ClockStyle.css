@@ -8,7 +8,7 @@ body {
 	overflow: hidden;
 	background: url(./cyberpunk-5135622_1280.jpg) no-repeat fixed;
 	background-size: cover;
-	animation: bd 10s ease-in-out infinite;
+	animation: bd 15s ease-in-out infinite;
 }
 
 .clock {
@@ -128,7 +128,8 @@ body {
 		background: url(./cyberpunk-5135622_1280.jpg) no-repeat;
 		background-size: cover;
 	}
-	75% {
+
+	85% {
 		background: url(./cyberpunk-5135622_1280\(01\).png) no-repeat;
 		background-size: cover;
 		background-position: bottom;
